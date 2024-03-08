@@ -9,7 +9,7 @@ Envolvem Pré-processamento de Dados, Análise e Visualização, Análise Estat�
 |[O que vende um carro?](https://github.com/IzabelaHammer/projetos_tripleten/tree/main/Projeto3)|Utilizando os dados coletados nos últimos anos e estudar e determinar quais fatores influenciaram o preço de um veículo.|*pandas, matplotlib, scipy, numpy, nltk*|
 |[telecomunicações Megaline](https://github.com/IzabelaHammer/projetos_tripleten/tree/main/Projeto4)|Vamos analisar o comportamento dos clientes e tentaremos determinar quais planos pré-pagos dão mais receita.|*pandas, matplotlib, scipy, numpy, nltk*|
 |[Games - top 5](https://github.com/IzabelaHammer/projetos_tripleten/tree/main/Projeto5)| Precisaremos identificar padrões que determinam se um jogo tem sucesso ou não. Isso permitirá que identifiquemos potenciais grandes vencedores e planeje campanhas publicitárias.|*pandas, matplotlib, scipy, numpy, nltk*|
-|[6](x)|x|*x*|
+|[Zuber](https://github.com/IzabelaHammer/projetos_tripleten/tree/main/Projeto6)|Zuber é uma nova empresa de compartilhamento de caronas que está sendo lançada em Chicago. O projeto tem como tarefa encontrar padrões nas informações disponíveis e entender as preferências dos passageiros e o impacto de fatores externos nas corridas. |*pandas, matplotlib, scipy, numpy, nltk*|
 |[7](x)|x|*x*|
 |[8](x)|x|*x*|
 |[13](x)|x|*x*|
