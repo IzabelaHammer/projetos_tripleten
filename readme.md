@@ -12,7 +12,7 @@ Envolvem Pré-processamento de Dados, Análise e Visualização, Análise Estat�
 |[Zuber](https://github.com/IzabelaHammer/projetos_tripleten/tree/main/Projeto6)|Zuber é uma nova empresa de compartilhamento de caronas que está sendo lançada em Chicago. O projeto tem como tarefa encontrar padrões nas informações disponíveis e entender as preferências dos passageiros e o impacto de fatores externos nas corridas. |*pandas, matplotlib, scipy, numpy, nltk*|
 |[7](x)|x|*x*|
 |[8](x)|x|*x*|
-|[13](x)|x|*x*|
+|[Sweet Lift Taxi](https://github.com/IzabelaHammer/projetos_tripleten/blob/main/Projeto13/previsaoproximahorataxi.ipynb)|A empresa Sweet Lift Taxi coletou dados históricos sobre pedidos de táxi nos aeroportos. Para atrair mais motoristas durante o horário de pico, precisamos prever a quantidade de pedidos de táxi para a próxima hora. Construa um modelo para tal predição.|*pandas, matplotlib, scipy, numpy, nltk,sklearn*|
 |[17](x)|x|*x*|
 |[x](x)|x|*x*|
 |[x](x)|x|*x*|
